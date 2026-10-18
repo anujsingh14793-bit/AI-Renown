@@ -1,0 +1,6 @@
+services:
+  - type: static-site
+    name: govbid-intelligence
+    rootDir: .
+    buildCommand: ""
+    staticPublishPath: "."
